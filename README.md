@@ -16,13 +16,12 @@ java TicTacToe -c 2  // human is player 1, computer player 2
 
 java TicTacToe -c 2 
 
-
+<img width="574" alt="screen shot 2017-08-13 at 10 23 26 am" src="https://user-images.githubusercontent.com/16257714/29250542-06ce24cc-8012-11e7-84bf-b3c34df1e013.png">
 
 
 java TicTacToe -c 1
 
-
-
+<img width="679" alt="screen shot 2017-08-13 at 10 22 03 am" src="https://user-images.githubusercontent.com/16257714/29250544-07e85878-8012-11e7-9972-c72a470860a6.png">
 
 
 Human against human 
